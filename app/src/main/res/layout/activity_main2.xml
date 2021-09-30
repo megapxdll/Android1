@@ -5,53 +5,53 @@
     android:layout_height="match_parent">
 
     <EditText
-        android:id="@+id/txt_TextContent"
+        android:id="@+id/txtTextContent"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Text me!"
         android:inputType="text" />
 
     <EditText
-        android:id="@+id/txt_NameContent"
+        android:id="@+id/txtNameContent"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Enter Name"
         android:inputType="textPersonName" />
 
     <EditText
-        android:id="@+id/txt_PhoneContent"
+        android:id="@+id/txtPhoneContent"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Enter phone number"
         android:inputType="phone" />
 
     <EditText
-        android:id="@+id/txt_NumberContent"
+        android:id="@+id/txtNumberContent"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Enter number"
         android:inputType="number" />
 
     <EditText
-        android:id="@+id/txt_PasswordContent"
+        android:id="@+id/txtPasswordContent"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Enter password"
-        android:inputType="textPassword"/>
+        android:inputType="textPassword" />
 
     <EditText
-        android:id="@+id/txt_EmailContent"
+        android:id="@+id/txtEmailContent"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Enter Email"
-        android:inputType="textEmailAddress"/>
+        android:inputType="textEmailAddress" />
 
     <EditText
-        android:id="@+id/txt_DateContent"
+        android:id="@+id/txtDateContent"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Enter date"
-        android:inputType="datetime"/>
+        android:inputType="datetime" />
 
     <CalendarView
         android:layout_width="match_parent"
